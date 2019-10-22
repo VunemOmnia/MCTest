@@ -1,0 +1,34 @@
+lastAccountName: Goldengaming2015
+timestamps:
+  login: 1571692556839
+  lastteleport: 1571686195881
+  kits:
+    firework: 1571614164084
+    color: 1571610471662
+    notch: 1571614155309
+    end: 1571618090417
+    vip: 1571613854586
+    dtools: 1571614013232
+    tools: 1571613884003
+  logout: 1571692696985
+ipAddress: 0:0:0:0:0:0:0:1
+lastlocation:
+  world: world
+  x: 13.288178101360108
+  y: 62.9375
+  z: 999981.3000000119
+  yaw: -65.573326
+  pitch: 11.754514
+nickname: §4ThePaleRider
+afk: false
+logoutlocation:
+  world: world
+  x: 39.62097763830221
+  y: 64.13122270650817
+  z: 999981.4590597945
+  yaw: -38.573387
+  pitch: 11.304545
+powertools:
+  arrow:
+  - smite
+godmode: false

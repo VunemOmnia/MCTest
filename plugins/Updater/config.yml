@@ -1,0 +1,3 @@
+# This configuration file affects all plugins using the Updater system (version 2+ - http://forums.bukkit.org/threads/96681/ )
+# Some updating systems will not adhere to the disabled value, but these may be turned off in their plugin's configuration.
+disable: false

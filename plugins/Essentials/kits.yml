@@ -1,0 +1,76 @@
+# EssentialsX kit configuration.
+# If you don't have any kits defined in this file, the plugin will try to copy them from the config.yml
+# 
+# Note: All items MUST be followed by a quantity!
+# All kit names should be lower case, and will be treated as lower in permissions/costs.
+# Syntax: - name[:durability] amount [enchantment:level]... [itemmeta:value]...
+# For Item Meta information visit http://wiki.ess3.net/wiki/Item_Meta
+# 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
+# Set delay to -1 for a one time kit.
+# For more information, visit http://wiki.ess3.net/wiki/Kits
+kits:
+  tools:
+    delay: 1200
+    items:
+    - stonesword 1
+    - stoneshovel 1
+    - stonepickaxe 1
+    - stoneaxe 1
+  dtools:
+    delay: 14400
+    items:
+    - diamondpickaxe 1 name:&4Gigadrill lore:The_drill_that_&npierces|the_heavens dig_speed:1 durability:1 loot_bonus_blocks:1
+    - diamondshovel 1 name:Dwarf lore:Diggy|Diggy|Hole dig_speed:3
+    - diamondaxe 1
+    - leatherhelmet 1 name:Top_Hat lore:Good_day,_Good_day color:16777215
+  notch:
+    delay: 6000
+    items:
+    - playerhead 1 player:Notch
+  color:
+    delay: 6000
+    items:
+    - writtenbook 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors
+  firework:
+    delay: 6000
+    items:
+    - fireworkrocket 1 name:Angry_Creeper color:red fade:green type:creeper power:1
+    - fireworkrocket 1 name:Starry_Night color:yellow,orange fade:blue type:star effect:trail,twinkle power:1
+    - fireworkrocket 2 name:Solar_Wind color:yellow,orange fade:red shape:large effect:twinkle color:yellow,orange fade:red shape:ball effect:trail color:red,purple fade:pink shape:star effect:trail power:1
+  VIP:
+    delay: 86400
+    items:
+    - writtenbook 1 lore:Ingame_color_codes title:&4Book &9o &6Colors author:KHobbits
+    - bottleofenchanting 64
+    - bottleofenchanting 64
+    - enchantmenttable 1
+    - enderchest 1
+    - diamondboots 1 name:&6[&eVIP_Boots&6]&7 protection_environmental:4 protection_fire:4 durability:3 protection_explosions:4 protection_projectile:4 mending:1 thorns:3
+    - diamondchestplate 1 name:&6[&eVIP_Chestplate&6]&7 protection_environmental:4 protection_fire:4 durability:3 protection_explosions:4 protection_projectile:4 mending:1 thorns:3
+    - diamondhelmet 1 name:&6[&eVIP_Helmet&6]&7 protection_environmental:4 protection_fire:4 durability:3 protection_explosions:4 protection_projectile:4 oxygen:3 water_worker:1 mending:1 thorns:3
+    - diamondshovel 1 name:&6[&eVIP_Shovel&6]&7 dig_speed:5 durability:3 mending:1
+    - diamondsword 1 name:&6[&eVIP_Sword&6]&7 damage_all:5 damage_undead:5 damage_arthropods:5 durability:3 knockback:2 fire_aspect:2 loot_bonus_mobs:3 mending:1
+    - diamondaxe 1 name:&6[&eVIP_Axe&6]&7 dig_speed:5 durability:3 loot_bonus_blocks:3 mending:1
+    - diamondpickaxe 1 name:&6[&eVIP_Silky&6]&7 dig_speed:5 silk_touch:1 durability:3 mending:1
+    - diamondpickaxe 1 name:&6[&eVIP_Lucky&6]&7 dig_speed:5 durability:3 loot_bonus_blocks:3 mending:1
+    - diamondleggings 1 name:&6[&eVIP_Leggings&6]&7 protection_environmental:4 protection_fire:4 durability:3 protection_explosions:4 protection_projectile:4 mending:1 thorns:3
+  End:
+    delay: 86400
+    items:
+    - bow 1 name:&7[&9End_Bow&7]&7 arrow_damage:5 arrow_knockback:2 durability:10 arrow_fire:1 arrow_infinite:1 mending:1
+    - arrow 1 name:&7[&9End_Arrow&7]&7
+    - bottleofenchanting 64
+    - bottleofenchanting 64
+    - bottleofenchanting 64
+    - bottleofenchanting 64
+    - enderchest 2
+    - enchantmenttable 2
+    - writtenbook 1 lore:Ingame_color_codes title:&4Book &9o &6Colors author:KHobbits
+    - diamondboots 1 name:&7[&9End_Boots&7]&7 protection_environmental:10 protection_fire:10 durability:10 protection_fall:10 protection_explosions:10 protection_projectile:10 oxygen:10 mending:1 water_worker:10 thorns:10
+    - diamondhelmet 1 name:&7[&9End_Helmet&7]&7 protection_environmental:10 protection_fire:10 durability:10 protection_explosions:10 protection_projectile:10 oxygen:10 mending:1 water_worker:10 thorns:10
+    - diamondchestplate 1 name:&7[&9End_Chestplate&7]&7 protection_environmental:10 protection_fire:10 durability:10 protection_explosions:10 protection_projectile:10 oxygen:10 mending:1 water_worker:10 thorns:10
+    - diamondleggings 1 name:&7[&9End_Leggings&7]&7 protection_environmental:10 protection_fire:10 durability:10 protection_explosions:10 protection_projectile:10 oxygen:10 mending:1 water_worker:10 thorns:10
+    - diamondsword 1 name:&7[&9End_Sword&7]&7 damage_all:10 damage_undead:10 durability:10 damage_arthropods:10 fire_aspect:10 loot_bonus_mobs:10 mending:1
+    - diamondshovel 1 name:&7[&9End_Shovel&7]&7 dig_speed:10 durability:10 mending:1
+    - diamondpickaxe 1 name:&7[&9End_Pickaxe&7]&7 dig_speed:10 durability:10 loot_bonus_blocks:10 mending:1
+    - diamondaxe 1 name:&7[&9End_Axe&7]&7 dig_speed:10 durability:10 mending:1

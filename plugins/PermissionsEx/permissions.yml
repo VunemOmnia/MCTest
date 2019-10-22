@@ -1,0 +1,137 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+  Member:
+    prefix: '&2[&aMember&2]&7'
+    build: true
+    permissions:
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    - essentials.afk
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.depth
+    - essentials.delhome
+    - essentials.help
+    - essentials.home
+    - essentials.kit
+    - essentials.kit.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.ping
+    - essentials.r
+    - essentials.rules
+    - essentials.seen
+    - essentials.sethome
+    - essentials.signs.use.disposal
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+  VIP:
+    default: false
+    prefix: '&6[&eVIP&6]&7'
+    inheritance:
+    - Member
+    build: true
+    permissions:
+    - essentials.help
+    - essentials.rules
+    - essentials.motd
+    - essentials.kit.vip
+    - essentials.nick
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.kit.VIP
+  End:
+    options:
+      prefix: '&7[&9End&7]&7'
+    inheritance:
+    - VIP
+    - Member
+    permissions:
+    - essentials.kit.End
+  Enderman:
+    options:
+      prefix: '&7[&5Enderman&7]&7'
+    inheritance:
+    - VIP
+    - Member
+    - End
+    permissions:
+    - essentials.kit.Enderman
+  EnderDragon:
+    options:
+      prefix: '&7[&5Ender Dragon&7]&7'
+    inheritance:
+    - VIP
+    - Member
+    - End
+    - Enderman
+    permissions:
+    - essentials.kit.Enderdragon
+  Mod:
+    default: false
+    prefix: '&1[&9Mod&1]&f'
+    inheritance:
+    - VIP
+    - Member
+    - End
+    - Enderman
+    - EnderDragon
+    build: true
+    permissions:
+    - essentials.sethome.multiple.staff
+    - essentials.helpop
+    - essentials.home.others
+    - essentials.nick
+    - essentials.warp
+    - essentials.warp.list
+  Admin:
+    default: false
+    prefix: '&9[&bAdmin&9]&f'
+    inheritance:
+    - Mod
+    - VIP
+    - Member
+    build: true
+    permissions:
+    - essentials.gamemode
+    - essentials.give
+    - essentials.god
+  Owner:
+    options:
+      prefix: '&8[&1Owner&8]&f'
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  d098f69d-87c8-4e5a-ac2c-e660393a3b27:
+    permissions:
+    - '*'
+    group:
+    - Owner
+    options:
+      name: Goldengaming2015
+  35e992d3-bf73-44a1-bd0c-d284e4713f02:
+    group:
+    - Owner
+    options:
+      name: bigbadben15
+  df873cd3-9f7b-41fc-a70b-81de168486a0:
+    group:
+    - Mod
+    - Member
+    options:
+      name: kigxin
+      prefix: '&1[&9Mod&1]&f'
