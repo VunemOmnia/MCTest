@@ -1,209 +1,241 @@
-[12:18:05] [Server thread/INFO]: Starting minecraft server version 1.9.4
-[12:18:05] [Server thread/INFO]: Loading properties
-[12:18:06] [Server thread/INFO]: Default game type: SURVIVAL
-[12:18:07] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-4af49dc-c5e9a16 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
-[12:18:07] [Server thread/INFO]: Debug logging is disabled
-[12:18:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:18:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:18:07] [Server thread/INFO]: Generating keypair
-[12:18:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:18:10] [Server thread/INFO]: Using default channel type
-[12:18:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[12:18:20] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.2;b3fbe8b
-[12:18:20] [Server thread/INFO]: [NetEvents] Loading NetEvents v1.0
-[12:18:20] [Server thread/INFO]: [UberEnchant] Loading UberEnchant v3.2
-[12:18:20] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[12:18:20] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib vv1.6.1
-[12:18:20] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.06-SNAPSHOT-b145
-[12:18:20] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[12:18:20] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v5.0.2
-[12:18:20] [Server thread/INFO]: [Slimefun] Loading Slimefun v4.1.9
-[12:18:20] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.1.0
-[12:18:20] [Server thread/INFO]: [MagicLoot] Loading MagicLoot v2.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.1.0
-[12:18:20] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.1.0
-[12:18:20] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.06-SNAPSHOT-b145
-[12:18:23] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[12:18:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[12:18:24] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[12:18:24] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[12:18:24] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[12:18:24] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[12:18:24] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[12:18:24] [Server thread/INFO]: Preparing level "world"
-[12:18:24] [Server thread/INFO]: -------- World Settings For [world] --------
-[12:18:24] [Server thread/INFO]: View Distance: 10
-[12:18:24] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:18:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:18:24] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:18:24] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:18:24] [Server thread/INFO]: Max Entity Collisions: 8
-[12:18:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:18:24] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:18:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:18:24] [Server thread/INFO]: Mob Spawn Range: 4
-[12:18:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:18:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:18:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:18:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:18:24] [Server thread/INFO]: Max TNT Explosions: 100
-[12:18:24] [Server thread/INFO]: Random Lighting Updates: false
-[12:18:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:18:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:18:24] [Server thread/INFO]: Structure Info Saving: true
-[12:18:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[12:18:25] [Server thread/INFO]: View Distance: 10
-[12:18:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:18:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:18:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:18:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:18:25] [Server thread/INFO]: Max Entity Collisions: 8
-[12:18:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:18:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:18:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:18:25] [Server thread/INFO]: Mob Spawn Range: 4
-[12:18:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:18:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:18:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:18:25] [Server thread/INFO]: Max TNT Explosions: 100
-[12:18:25] [Server thread/INFO]: Random Lighting Updates: false
-[12:18:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:18:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:18:25] [Server thread/INFO]: Structure Info Saving: true
-[12:18:25] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[12:18:25] [Server thread/INFO]: View Distance: 10
-[12:18:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[12:18:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[12:18:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[12:18:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[12:18:25] [Server thread/INFO]: Max Entity Collisions: 8
-[12:18:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[12:18:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[12:18:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[12:18:25] [Server thread/INFO]: Mob Spawn Range: 4
-[12:18:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[12:18:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[12:18:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[12:18:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[12:18:25] [Server thread/INFO]: Max TNT Explosions: 100
-[12:18:25] [Server thread/INFO]: Random Lighting Updates: false
-[12:18:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[12:18:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[12:18:25] [Server thread/INFO]: Structure Info Saving: true
-[12:18:26] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3110772394179260252)
-[12:18:27] [Server thread/INFO]: Preparing spawn area: 0%
-[12:18:28] [Server thread/INFO]: Preparing spawn area: 32%
-[12:18:29] [Server thread/INFO]: Preparing spawn area: 48%
-[12:18:30] [User Authenticator #1/INFO]: UUID of player bigbadben15 is 35e992d3-bf73-44a1-bd0c-d284e4713f02
-[12:18:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3110772394179260252)
-[12:18:31] [Server thread/INFO]: Preparing spawn area: 48%
-[12:18:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3110772394179260252)
-[12:18:33] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.2;b3fbe8b
-[12:18:34] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[12:18:34] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_9_R2 as the Bukkit adapter
-[12:18:34] [Server thread/INFO]: [NetEvents] Enabling NetEvents v1.0
-[12:18:34] [Server thread/ERROR]: [NetEvents] Passphrase has not been changed from default! NetEvents will not enable until this happens
-[12:18:34] [Server thread/INFO]: [NetEvents] Disabling NetEvents v1.0
-[12:18:34] [Server thread/INFO]: [UberEnchant] Enabling UberEnchant v3.2
-[12:18:34] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
-[12:18:34] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[12:18:34] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[12:18:35] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[12:18:35] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[12:18:35] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[12:18:35] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib vv1.6.1
-[12:18:35] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.2
-[12:18:35] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
-[12:18:35] [Server thread/INFO]: [SilkSpawners] Loading support for v1_9_R2
-[12:18:35] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
-[12:18:36] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
-[12:18:36] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
-[12:18:36] [Server thread/INFO]: [Slimefun] Enabling Slimefun v4.1.9
-[12:18:36] [Server thread/INFO]: [Slimefun] Loading Files...
-[12:18:37] [Server thread/INFO]: [Slimefun] Loading Config...
-[12:18:37] [Server thread/INFO]: [Slimefun] Loading Items...
-[12:18:38] [Server thread/INFO]: [Slimefun] Loading Researches...
-[12:18:39] [Server thread/INFO]: [Slimefun] Loading World Generators...
-[12:18:39] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Oil
-[12:18:39] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Nether Ice
-[12:18:39] [Server thread/INFO]: [Slimefun] Successfully hooked into WorldEdit!
-[12:18:39] [Server thread/INFO]: [Slimefun] Finished!
-[12:18:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.0
-[12:18:40] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[12:18:40] [Server thread/INFO]: No kits found to migrate.
-[12:18:40] [Server thread/INFO]: [Essentials] Using legacy item data provider as mob spawner provider.
-[12:18:40] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
-[12:18:40] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[12:18:40] [Server thread/INFO]: Loaded 852 items from items.csv.
-[12:18:40] [Server thread/INFO]: Using locale en_US
-[12:18:40] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:18:40] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:18:40] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[12:18:40] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
-[12:18:40] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.1.0
-[12:18:40] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
-[12:18:40] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.1.0
-[12:18:40] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.1.0
-[12:18:41] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
-[12:18:41] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
-[12:18:41] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.1.0
-[12:18:41] [Server thread/INFO]: [MagicLoot] Enabling MagicLoot v2.1.0
-[12:18:42] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.1.0
-[12:18:42] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.1.0
-[12:18:42] [Server thread/WARN]: config broken for xmpp
-[12:18:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:18:42] [Server thread/INFO]: Done (17.891s)! For help, type "help" or "?"
-[12:18:42] [Server thread/INFO]: [0;36;1m###################### - Slimefun - ######################[m
-[12:18:42] [Server thread/INFO]: [0;36;1mSuccessfully loaded 465 Items (223 Researches)[m
-[12:18:42] [Server thread/INFO]: [0;36;1m( 464 Items from Slimefun, 1 Items from Addons )[m
-[12:18:42] [Server thread/INFO]: [0;36;1m##########################################################[m
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
-[12:18:42] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 1ms)
-[12:18:42] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
-[12:18:42] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
-[12:18:42] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
-[12:18:42] [Server thread/INFO]: [Slimefun] This may take a long time...
-[12:18:42] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
-[12:18:42] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
-[12:18:43] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
-[12:18:43] [Craft Scheduler Thread - 7/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.6
-[12:18:43] [Craft Scheduler Thread - 7/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
-[12:18:44] [Thread-12/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
-[12:18:44] [Thread-13/INFO]: [CS-CoreLib - Updater] MagicLoot is up to date!
-[12:18:44] [Thread-14/INFO]: [CS-CoreLib - Updater] Slimefun is outdated!
-[12:18:44] [Thread-14/INFO]: [CS-CoreLib - Updater] Downloading Slimefun v4.1.15
-[12:18:45] [Server thread/INFO]: bigbadben15[/0:0:0:0:0:0:0:1:62871] logged in with entity id 26 at ([world]-54.43206424807584, 75.12065423589296, 1000193.3386225736)
-[12:18:45] [Server thread/WARN]: [Essentials] Task #34 for Essentials v2.17.1.0 generated an exception
+[12:30:37] [Server thread/INFO]: Starting minecraft server version 1.9.4
+[12:30:37] [Server thread/INFO]: Loading properties
+[12:30:37] [Server thread/INFO]: Default game type: SURVIVAL
+[12:30:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-4af49dc-c5e9a16 (MC: 1.9.4) (Implementing API version 1.9.4-R0.1-SNAPSHOT)
+[12:30:38] [Server thread/INFO]: Debug logging is disabled
+[12:30:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:30:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:30:39] [Server thread/INFO]: Generating keypair
+[12:30:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:30:40] [Server thread/INFO]: Using default channel type
+[12:30:42] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:30:42] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.2;b3fbe8b
+[12:30:42] [Server thread/INFO]: [NetEvents] Loading NetEvents v1.0
+[12:30:42] [Server thread/INFO]: [UberEnchant] Loading UberEnchant v3.2
+[12:30:42] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[12:30:42] [Server thread/INFO]: [CS-CoreLib] Loading CS-CoreLib vv1.6.1
+[12:30:42] [Server thread/INFO]: [mcMMO] Loading mcMMO v1.5.06-SNAPSHOT-b145
+[12:30:42] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:30:42] [Server thread/INFO]: [SilkSpawners] Loading SilkSpawners v5.0.2
+[12:30:42] [Server thread/INFO]: [Slimefun] Loading Slimefun v4.1.9
+[12:30:42] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.17.1.0
+[12:30:42] [Server thread/INFO]: [MagicLoot] Loading MagicLoot v2.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.1.0
+[12:30:42] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.1.0
+[12:30:42] [Server thread/INFO]: [mcMMO] Enabling mcMMO v1.5.06-SNAPSHOT-b145
+[12:30:44] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:30:44] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:30:44] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[12:30:44] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:30:44] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[12:30:44] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:30:44] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:30:44] [Server thread/INFO]: Preparing level "world"
+[12:30:44] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:30:44] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:44] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:44] [Server thread/INFO]: View Distance: 10
+[12:30:44] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:44] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:44] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:44] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:44] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:30:44] [Server thread/INFO]: Max Entity Collisions: 8
+[12:30:44] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:44] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:44] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:44] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:44] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:30:44] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:44] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:44] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:44] [Server thread/INFO]: Structure Info Saving: true
+[12:30:44] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:45] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:30:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:45] [Server thread/INFO]: View Distance: 10
+[12:30:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:30:45] [Server thread/INFO]: Max Entity Collisions: 8
+[12:30:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:45] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:30:45] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:45] [Server thread/INFO]: Structure Info Saving: true
+[12:30:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:45] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:30:45] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:30:45] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:30:45] [Server thread/INFO]: View Distance: 10
+[12:30:45] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:30:45] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:30:45] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:30:45] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:30:45] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:30:45] [Server thread/INFO]: Max Entity Collisions: 8
+[12:30:45] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:30:45] [Server thread/INFO]: Mob Spawn Range: 4
+[12:30:45] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:30:45] [Server thread/INFO]: Random Lighting Updates: false
+[12:30:45] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:30:45] [Server thread/INFO]: Max TNT Explosions: 100
+[12:30:45] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:30:45] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:30:45] [Server thread/INFO]: Structure Info Saving: true
+[12:30:45] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:30:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: 3110772394179260252)
+[12:30:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:30:48] [Server thread/INFO]: Preparing spawn area: 45%
+[12:30:49] [Server thread/INFO]: Preparing spawn area: 96%
+[12:30:49] [Server thread/INFO]: Preparing start region for level 1 (Seed: 3110772394179260252)
+[12:30:50] [Server thread/INFO]: Preparing spawn area: 48%
+[12:30:51] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3110772394179260252)
+[12:30:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.2;b3fbe8b
+[12:30:52] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:30:52] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_9_R2 as the Bukkit adapter
+[12:30:52] [Server thread/INFO]: [NetEvents] Enabling NetEvents v1.0
+[12:30:53] [Server thread/ERROR]: [NetEvents] Passphrase has not been changed from default! NetEvents will not enable until this happens
+[12:30:53] [Server thread/INFO]: [NetEvents] Disabling NetEvents v1.0
+[12:30:53] [Server thread/INFO]: [UberEnchant] Enabling UberEnchant v3.2
+[12:30:53] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[12:30:53] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[12:30:53] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[12:30:53] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[12:30:53] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[12:30:53] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[12:30:53] [Server thread/INFO]: [CS-CoreLib] Enabling CS-CoreLib vv1.6.1
+[12:30:53] [Server thread/INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.2
+[12:30:53] [Server thread/INFO]: [SilkSpawners] WorldGuard was not found and support is disabled
+[12:30:53] [Server thread/INFO]: [SilkSpawners] Loading support for v1_9_R2
+[12:30:54] [Server thread/INFO]: [SilkSpawners] AutoUpdater is enabled.
+[12:30:59] [Server thread/INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[12:30:59] [Server thread/INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[12:30:59] [Server thread/INFO]: [Slimefun] Enabling Slimefun v4.1.9
+[12:31:00] [Server thread/INFO]: [Slimefun] Loading Files...
+[12:31:00] [Server thread/INFO]: [Slimefun] Loading Config...
+[12:31:00] [Server thread/INFO]: [Slimefun] Loading Items...
+[12:31:01] [Server thread/INFO]: [Slimefun] Loading Researches...
+[12:31:01] [Server thread/INFO]: [Slimefun] Loading World Generators...
+[12:31:01] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Oil
+[12:31:01] [Server thread/INFO]: [Slimefun - GEO] Registering Ore Gen: Nether Ice
+[12:31:01] [Server thread/INFO]: [Slimefun] Successfully hooked into WorldEdit!
+[12:31:01] [Server thread/INFO]: [Slimefun] Finished!
+[12:31:01] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.1.0
+[12:31:02] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[12:31:02] [Server thread/INFO]: No kits found to migrate.
+[12:31:02] [Server thread/INFO]: [Essentials] Using legacy item data provider as mob spawner provider.
+[12:31:02] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[12:31:02] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[12:31:02] [Server thread/INFO]: Loaded 852 items from items.csv.
+[12:31:02] [Server thread/INFO]: Using locale en_US
+[12:31:02] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:31:02] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:31:02] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:31:02] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[12:31:02] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.1.0
+[12:31:02] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[12:31:02] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.1.0
+[12:31:02] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.1.0
+[12:31:02] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[12:31:03] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[12:31:03] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.17.1.0
+[12:31:03] [Server thread/INFO]: [MagicLoot] Enabling MagicLoot v2.1.0
+[12:31:03] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.1.0
+[12:31:03] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.1.0
+[12:31:03] [Server thread/WARN]: config broken for xmpp
+[12:31:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:31:03] [Server thread/INFO]: Done (18.954s)! For help, type "help" or "?"
+[12:31:03] [Server thread/INFO]: [0;33;22m###################### - Slimefun - ######################[m
+[12:31:03] [Server thread/INFO]: [0;33;22mSuccessfully loaded 465 Items (223 Researches)[m
+[12:31:03] [Server thread/INFO]: [0;33;22m( 464 Items from Slimefun, 1 Items from Addons )[m
+[12:31:03] [Server thread/INFO]: [0;33;22m##########################################################[m
+[12:31:03] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world"
+[12:31:03] [Server thread/INFO]: [Slimefun] This may take a long time...
+[12:31:03] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 0ms)
+[12:31:03] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world"
+[12:31:03] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_nether"
+[12:31:03] [Server thread/INFO]: [Slimefun] This may take a long time...
+[12:31:03] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 1ms)
+[12:31:03] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_nether"
+[12:31:03] [Server thread/INFO]: [Slimefun] Loading Blocks for World "world_the_end"
+[12:31:03] [Server thread/INFO]: [Slimefun] This may take a long time...
+[12:31:04] [Server thread/INFO]: [Slimefun] Loading Blocks... 100% (FINISHED - 1ms)
+[12:31:04] [Server thread/INFO]: [Slimefun] Loaded a total of 0 Blocks for World "world_the_end"
+[12:31:04] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
+[12:31:04] [Server thread/INFO]: [MagicLoot] Slimefun has been found!
+[12:31:04] [Server thread/INFO]: [MagicLoot] I will now generate Slimefun Loot as well!
+[12:31:07] [Craft Scheduler Thread - 5/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[12:31:07] [Craft Scheduler Thread - 7/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.6
+[12:31:07] [Craft Scheduler Thread - 7/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[12:31:11] [Craft Scheduler Thread - 5/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[12:31:12] [Craft Scheduler Thread - 5/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[12:31:13] [Thread-12/INFO]: [CS-CoreLib - Updater] CS-CoreLib is up to date!
+[12:31:13] [Thread-13/INFO]: [CS-CoreLib - Updater] MagicLoot is up to date!
+[12:31:13] [Thread-14/INFO]: [CS-CoreLib - Updater] Slimefun is outdated!
+[12:31:13] [Thread-14/INFO]: [CS-CoreLib - Updater] Downloading Slimefun v4.1.15
+[12:31:14] [Server thread/INFO]: https://media.forgecdn.net/files/2558/769/Slimefun+v4.1.15.jar
+[12:31:15] [Server thread/WARN]:  
+[12:31:15] [Server thread/WARN]: #################### - ERROR - ####################
+[12:31:15] [Server thread/WARN]: Could not auto-update Slimefun
+[12:31:15] [Server thread/WARN]: #################### - ERROR - ####################
+[12:31:15] [Server thread/WARN]:  
+[12:31:15] [Server thread/WARN]: java.io.FileNotFoundException: plugins\update\Slimefun+v4.1.9.jar (The system cannot find the path specified)
+[12:31:15] [Server thread/WARN]: 	at java.io.FileOutputStream.open0(Native Method)
+[12:31:15] [Server thread/WARN]: 	at java.io.FileOutputStream.open(Unknown Source)
+[12:31:15] [Server thread/WARN]: 	at java.io.FileOutputStream.<init>(Unknown Source)
+[12:31:15] [Server thread/WARN]: 	at java.io.FileOutputStream.<init>(Unknown Source)
+[12:31:15] [Server thread/WARN]: 	at me.mrCookieSlime.CSCoreLibPlugin.updater.Updater$UpdaterTask$1.run(Updater.java:196)
+[12:31:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
+[12:31:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
+[12:31:15] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
+[12:31:15] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
+[12:31:15] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
+[12:31:15] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
+[12:31:15] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:31:15] [Server thread/WARN]:  
+[12:31:15] [Server thread/WARN]: #################### - UPDATE - ####################
+[12:31:15] [Server thread/WARN]: Slimefun was successfully updated (4.1.9 -> 4.1.15)
+[12:31:15] [Server thread/WARN]: Please restart your Server in order to use the new Version
+[12:31:15] [Server thread/WARN]:  
+[13:31:21] [Craft Scheduler Thread - 12/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[13:31:22] [Craft Scheduler Thread - 12/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[13:31:22] [Craft Scheduler Thread - 12/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[13:48:35] [User Authenticator #1/INFO]: UUID of player bigbadben15 is 35e992d3-bf73-44a1-bd0c-d284e4713f02
+[13:48:37] [Server thread/INFO]: bigbadben15[/0:0:0:0:0:0:0:1:63898] logged in with entity id 26 at ([world]27.305134491249003, 64.0, 999948.1687344802)
+[13:48:37] [Server thread/WARN]: [Essentials] Task #38 for Essentials v2.17.1.0 generated an exception
 java.lang.NullPointerException
 	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
@@ -214,62 +246,113 @@ java.lang.NullPointerException
 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
-[12:18:46] [Server thread/INFO]: [MagicLoot] Slimefun has been found!
-[12:18:46] [Server thread/INFO]: [MagicLoot] I will now generate Slimefun Loot as well!
-[12:18:46] [Server thread/INFO]: https://media.forgecdn.net/files/2558/769/Slimefun+v4.1.15.jar
-[12:18:48] [Server thread/WARN]:  
-[12:18:48] [Server thread/WARN]: #################### - ERROR - ####################
-[12:18:48] [Server thread/WARN]: Could not auto-update Slimefun
-[12:18:48] [Server thread/WARN]: #################### - ERROR - ####################
-[12:18:48] [Server thread/WARN]:  
-[12:18:48] [Server thread/WARN]: java.io.FileNotFoundException: plugins\update\Slimefun+v4.1.9.jar (The system cannot find the path specified)
-[12:18:48] [Server thread/WARN]: 	at java.io.FileOutputStream.open0(Native Method)
-[12:18:48] [Server thread/WARN]: 	at java.io.FileOutputStream.open(Unknown Source)
-[12:18:48] [Server thread/WARN]: 	at java.io.FileOutputStream.<init>(Unknown Source)
-[12:18:48] [Server thread/WARN]: 	at java.io.FileOutputStream.<init>(Unknown Source)
-[12:18:48] [Server thread/WARN]: 	at me.mrCookieSlime.CSCoreLibPlugin.updater.Updater$UpdaterTask$1.run(Updater.java:196)
-[12:18:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71)
-[12:18:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
-[12:18:48] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734)
-[12:18:48] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399)
-[12:18:48] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665)
-[12:18:48] [Server thread/WARN]: 	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564)
-[12:18:48] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
-[12:18:48] [Server thread/WARN]:  
-[12:18:48] [Server thread/WARN]: #################### - UPDATE - ####################
-[12:18:48] [Server thread/WARN]: Slimefun was successfully updated (4.1.9 -> 4.1.15)
-[12:18:48] [Server thread/WARN]: Please restart your Server in order to use the new Version
-[12:18:48] [Server thread/WARN]:  
-[12:18:50] [Craft Scheduler Thread - 3/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
-[12:18:53] [Craft Scheduler Thread - 3/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
-[12:18:54] [Craft Scheduler Thread - 3/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
-[12:24:36] [Server thread/INFO]: [Server] ok i have to shut down the server for a moment
-[12:24:40] [Async Chat Thread - #0/INFO]: [m<[0;30;1m[[0;34;22mOwner[0;30;1m][0;37;1m~[0;31;1mTWC[m> sure[m
-[12:24:42] [Server thread/INFO]: Stopping the server
-[12:24:42] [Server thread/INFO]: Stopping server
-[12:24:42] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.1.0
-[12:24:42] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.0
-[12:24:42] [Server thread/INFO]: [MagicLoot] Disabling MagicLoot v2.1.0
-[12:24:42] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.1.0
-[12:24:42] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.1.0
-[12:24:42] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.0
-[12:24:42] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.0
-[12:24:42] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.0
-[12:24:42] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
-[12:24:42] [Server thread/INFO]: [Slimefun] Disabling Slimefun v4.1.9
-[12:24:43] [Server thread/INFO]: [Slimfun] Backed up Blocks to 2019-10-22-12-24.zip
-[12:24:43] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v5.0.2
-[12:24:43] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
-[12:24:43] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.06-SNAPSHOT-b145
-[12:24:45] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib vv1.6.1
-[12:24:45] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[12:24:45] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[12:24:45] [Server thread/INFO]: [UberEnchant] Disabling UberEnchant v3.2
-[12:24:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.2;b3fbe8b
-[12:24:45] [Server thread/INFO]: Saving players
-[12:24:45] [Server thread/INFO]: bigbadben15 lost connection: Server closed
-[12:24:45] [Server thread/INFO]: bigbadben15 left the game.
-[12:24:45] [Server thread/INFO]: Saving worlds
-[12:24:45] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[12:24:55] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
-[12:24:55] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[13:50:43] [Server thread/INFO]: bigbadben15 issued server command: /fly
+[14:01:17] [Server thread/INFO]: Generated "GasStation"
+[14:01:26] [Server thread/WARN]: bigbadben15 moved wrongly!
+[14:01:30] [Server thread/INFO]: Generated "Outpost"
+[14:01:53] [Server thread/INFO]: Generated "GasStation"
+[14:03:56] [Server thread/INFO]: bigbadben15 issued server command: /feed
+[14:05:36] [Server thread/INFO]: bigbadben15 issued server command: /feed
+[14:10:21] [Server thread/INFO]: bigbadben15 issued server command: /warp mine
+[14:11:27] [Server thread/INFO]: bigbadben15 issued server command: /uadd enchant unbreaking 50
+[14:11:42] [Server thread/INFO]: bigbadben15 issued server command: /feed
+[14:13:11] [Server thread/INFO]: Generated "House"
+[14:13:16] [Server thread/WARN]: bigbadben15 moved wrongly!
+[14:13:21] [Server thread/INFO]: Generated "GasStation"
+[14:15:04] [Server thread/INFO]: Generated "Farm"
+[14:15:05] [Server thread/INFO]: bigbadben15 issued server command: /sf guide
+[14:17:48] [Server thread/INFO]: bigbadben15 issued server command: /warp mine
+[14:18:06] [Server thread/INFO]: bigbadben15 lost connection: Disconnected
+[14:18:06] [Server thread/INFO]: bigbadben15 left the game.
+[14:18:06] [Server thread/WARN]: [Essentials] Task #215 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+[14:32:05] [Craft Scheduler Thread - 26/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[14:32:06] [Craft Scheduler Thread - 26/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[14:32:06] [Craft Scheduler Thread - 26/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[14:57:45] [User Authenticator #2/INFO]: UUID of player bigbadben15 is 35e992d3-bf73-44a1-bd0c-d284e4713f02
+[14:57:45] [Server thread/INFO]: bigbadben15[/0:0:0:0:0:0:0:1:64741] logged in with entity id 16395 at ([world]32.78510567358232, 60.0, 999946.0299420855)
+[14:57:45] [Server thread/WARN]: [Essentials] Task #221 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+[15:02:24] [Server thread/INFO]: bigbadben15 issued server command: /give bigbadben15 saddle
+[15:10:16] [Server thread/INFO]: bigbadben15 lost connection: Disconnected
+[15:10:16] [Server thread/INFO]: bigbadben15 left the game.
+[15:10:16] [Server thread/WARN]: [Essentials] Task #324 for Essentials v2.17.1.0 generated an exception
+java.lang.NullPointerException
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at org.bukkit.craftbukkit.v1_9_R2.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.D(MinecraftServer.java:734) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.DedicatedServer.D(DedicatedServer.java:399) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.C(MinecraftServer.java:665) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at net.minecraft.server.v1_9_R2.MinecraftServer.run(MinecraftServer.java:564) [spigot-1.9.4.jar:git-Spigot-4af49dc-c5e9a16]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_211]
+[15:32:21] [Craft Scheduler Thread - 38/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[15:32:21] [Craft Scheduler Thread - 38/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[15:32:21] [Craft Scheduler Thread - 38/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[16:32:38] [Craft Scheduler Thread - 42/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[16:32:39] [Craft Scheduler Thread - 42/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[16:32:39] [Craft Scheduler Thread - 42/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[17:32:53] [Craft Scheduler Thread - 52/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[17:32:54] [Craft Scheduler Thread - 52/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[17:32:54] [Craft Scheduler Thread - 52/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[18:33:06] [Craft Scheduler Thread - 62/INFO]: [Vault] Checking for Updates ... 
+[18:33:07] [Craft Scheduler Thread - 62/WARN]: [Vault] Stable Version: 1.7.2 is out! You are still running version: 1.5.6
+[18:33:07] [Craft Scheduler Thread - 62/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[18:33:09] [Craft Scheduler Thread - 62/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[18:33:10] [Craft Scheduler Thread - 62/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[18:33:10] [Craft Scheduler Thread - 62/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[19:33:26] [Craft Scheduler Thread - 72/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[19:33:27] [Craft Scheduler Thread - 72/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[19:33:27] [Craft Scheduler Thread - 72/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[20:33:44] [Craft Scheduler Thread - 80/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[20:33:45] [Craft Scheduler Thread - 80/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[20:33:45] [Craft Scheduler Thread - 80/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[20:43:15] [Server thread/INFO]: Generated "Farm"
+[21:34:01] [Craft Scheduler Thread - 88/INFO]: [Slimefun - GitHub] Retrieving 'repo.json' from GitHub...
+[21:34:01] [Craft Scheduler Thread - 88/INFO]: [Slimefun - GitHub] Retrieving 'lines_of_code.json' from GitHub...
+[21:34:02] [Craft Scheduler Thread - 88/INFO]: [Slimefun - GitHub] Retrieving 'contributors.json' from GitHub...
+[21:47:57] [Server thread/INFO]: Stopping the server
+[21:47:57] [Server thread/INFO]: Stopping server
+[21:47:57] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.1.0
+[21:47:57] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.1.0
+[21:47:57] [Server thread/INFO]: [MagicLoot] Disabling MagicLoot v2.1.0
+[21:47:57] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.17.1.0
+[21:47:57] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.1.0
+[21:47:57] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.1.0
+[21:47:57] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.1.0
+[21:47:57] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.1.0
+[21:47:57] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[21:47:57] [Server thread/INFO]: [Slimefun] Disabling Slimefun v4.1.9
+[21:47:57] [Server thread/INFO]: [Slimfun] Backed up Blocks to 2019-10-22-21-47.zip
+[21:47:57] [Server thread/INFO]: [SilkSpawners] Disabling SilkSpawners v5.0.2
+[21:47:57] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[21:47:57] [Server thread/INFO]: [mcMMO] Disabling mcMMO v1.5.06-SNAPSHOT-b145
+[21:48:00] [Server thread/INFO]: [CS-CoreLib] Disabling CS-CoreLib vv1.6.1
+[21:48:00] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
+[21:48:00] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[21:48:01] [Server thread/INFO]: [UberEnchant] Disabling UberEnchant v3.2
+[21:48:01] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.2;b3fbe8b
+[21:48:01] [Server thread/INFO]: Saving players
+[21:48:01] [Server thread/INFO]: Saving worlds
+[21:48:01] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:48:11] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:48:11] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
